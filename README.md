@@ -24,5 +24,5 @@ Requirements
 - Watchman for macOS users
 
 Download the git project folder and create a expo project using the commands on a cmd (run as administrator):
-- npm run
+- npm install
 - npm start
