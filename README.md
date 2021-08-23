@@ -1,0 +1,2 @@
+# Offline-Blog-Client
+The proposed system will provide a mechanism through which the bloggers will find ease in writing the blogs and articles without the intent connection at any time, it will also possess the functionality of sharing the blog post to others through email. Moreover, the application mainly focuses on the offline functionality there it will be a best tool for the bloggers to get their tasks done without any problem otherwise they face in times of offline mode.
